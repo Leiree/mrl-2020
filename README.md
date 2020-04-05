@@ -1,1 +1,1 @@
-![IDL 2020 Poster](./poster.jpg)
+![MRL 2020 Banner](./banner.jpg)
