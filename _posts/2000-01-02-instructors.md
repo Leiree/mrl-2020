@@ -27,6 +27,8 @@ fa-icon: info
     </a>
 </div>
 
+<br><br>
+
 ### Acknowledgements 
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/victor-campos" target="_blank">
