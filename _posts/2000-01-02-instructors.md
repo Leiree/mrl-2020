@@ -27,3 +27,10 @@ fa-icon: info
     </a>
 </div>
 
+### Acknowledgements 
+<div class="author">
+    <a href="https://imatge.upc.edu/web/people/victor-campos" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/VictorCampos-160x160.jpg"></div>
+      <div>Víctor Campos</div>
+    </a>
+</div>
